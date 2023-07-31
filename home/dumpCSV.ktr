@@ -174,15 +174,11 @@
         <rename/>
         <length>-2</length>
         <precision>-2</precision>
-      </field>      <field>        <name>value</name>
-        <rename/>
-        <length>-2</length>
-        <precision>-2</precision>
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>544</xloc>
-      <yloc>384</yloc>
+      <yloc>112</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -219,10 +215,6 @@
         <field>
           <column_name>name</column_name>
           <stream_name>name</stream_name>
-        </field>
-        <field>
-          <column_name>value</column_name>
-          <stream_name>value</stream_name>
         </field>
     </fields>
      <cluster_schema/>
