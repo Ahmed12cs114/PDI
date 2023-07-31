@@ -181,8 +181,8 @@
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>560</xloc>
-      <yloc>528</yloc>
+      <xloc>544</xloc>
+      <yloc>384</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
