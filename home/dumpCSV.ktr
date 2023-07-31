@@ -7,7 +7,7 @@
     <trans_version/>
     <trans_type>Normal</trans_type>
     <trans_status>0</trans_status>
-    <directory>&#x2f;home</directory>
+    <directory>&#x2f;</directory>
     <parameters>
     </parameters>
     <log>
@@ -182,7 +182,7 @@
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>560</xloc>
-      <yloc>144</yloc>
+      <yloc>528</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
