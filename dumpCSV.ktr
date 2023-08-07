@@ -177,8 +177,8 @@
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>560</xloc>
-      <yloc>144</yloc>
+      <xloc>752</xloc>
+      <yloc>512</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
